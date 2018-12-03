@@ -1,2 +1,5 @@
 https://blog.floydhub.com/colorizing-b-w-photos-with-neural-networks/ 
 https://github.com/aymericdamien/TensorFlow-Examples
+
+
+https://github.com/Mrgemy95/Tensorflow-Project-Template # starting help for using tensorflow
