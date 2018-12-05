@@ -9,3 +9,4 @@ https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-u
 https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/ # more general
 
 https://github.com/fchollet/deep-learning-models # Extract features from images using imageNet, compatible with both TensorFlow and Theano
+#Pre-trained weights can be automatically loaded upon instantiation (weights='imagenet' argument in model constructor for all image models
