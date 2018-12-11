@@ -11,3 +11,4 @@ https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-dee
 https://github.com/fchollet/deep-learning-models # Extract features from images using imageNet, compatible with both TensorFlow and Theano
 #Pre-trained weights can be automatically loaded upon instantiation (weights='imagenet' argument in model constructor for all image models
 Collectio of images on dropbox:   https://www.dropbox.com/sh/pe29c89v93znus6/AADF9qXdsY_6f7zqeItUqUc7a?dl=0
+output_graph + output_labels already trained : https://www.dropbox.com/sh/k9npmktjmmx4709/AABH1haw7irLvqTcDmVH3Rz8a?dl=0
